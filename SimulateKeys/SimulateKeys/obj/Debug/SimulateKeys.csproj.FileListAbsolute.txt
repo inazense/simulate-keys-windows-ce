@@ -1,0 +1,5 @@
+C:\Users\Inazio\Documents\Visual Studio 2008\Projects\SimulateKeys\SimulateKeys\bin\Debug\SimulateKeys.exe
+C:\Users\Inazio\Documents\Visual Studio 2008\Projects\SimulateKeys\SimulateKeys\bin\Debug\SimulateKeys.pdb
+C:\Users\Inazio\Documents\Visual Studio 2008\Projects\SimulateKeys\SimulateKeys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Inazio\Documents\Visual Studio 2008\Projects\SimulateKeys\SimulateKeys\obj\Debug\SimulateKeys.exe
+C:\Users\Inazio\Documents\Visual Studio 2008\Projects\SimulateKeys\SimulateKeys\obj\Debug\SimulateKeys.pdb
