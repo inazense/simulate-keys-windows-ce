@@ -10,14 +10,14 @@ This code uses the ***Terranova.API***
 - .net Framework 3.5 at least
 
 ## How it works
-This example get the name of one process which we want to send a key (in this case, the Enter key), set it as foreground window and then send the key.
+This example gets the name of the process we want to send a key (in this case, the Enter key), set it as foreground window and then send the key.
 
 ## What I need to change?
-First of all, you need to know the name of the process which receives the simulated key. After that, you need to replace on _Program.cs_, in the line 63, MyProcess.exe by your own program.
+You need to replace line 63 on _Program.cs_, ```MyProcess.exe``` by your own process name.
 ```
 IntPtr myProcessPID = getMyProcessPID("MyProcess.exe");
 ```
-And, in line 60, you can select what key simulate. All the possible keys are in Keys.cs. Just replace that line by a key of your preference
+And, in line 60 of same file, you can select what key simulate. All the possible keys are in ```Keys.cs```. Just replace that line by a key of your preference
 ```
 byte key = Keys.ENTER;
 ```
