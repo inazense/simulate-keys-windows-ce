@@ -17,7 +17,7 @@ You need to replace line 63 on __Program.cs__, ```MyProcess.exe``` by your own p
 ```
 IntPtr myProcessPID = getMyProcessPID("MyProcess.exe");
 ```
-And, in line 60 of same file, you can select what key simulate. All the possible keys are in ```Keys.cs```. Just replace that line by a key of your preference
+And in line 60 of same file, you can select what key do you want to simulate. All the possible keys are in ```Keys.cs```. Just replace that line by a key of your preference
 ```
 byte key = Keys.ENTER;
 ```
